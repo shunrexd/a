@@ -1,41 +1,11 @@
 [
   {
-    "Id": "",
-    "ObjectId": "79",
-    "ItemId": "79",
-    "ObjectSource": "curatedcontentitemtemplates",
-    "ItemSource": "curatedcontentitemtemplates",
-    "Metadata": {
-      "Added": "2024-01-03T22:59:50.225939Z"
-    },
-    "AdditionalData": {
-      "NebulaData": {
-        "Colors": "#1C0E08"
-      }
-    },
-    "Tags": [
-      {
-        "Id": "59",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "60",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "61",
-        "Source": "curatedcontentitemtemplates"
-      }
-    ]
-  },
-  {
-    "Id": "",
     "ObjectId": "174",
     "ItemId": "174",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2260253Z"
+      "Added": "2024-01-03T23:43:21.3887445Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -66,42 +36,12 @@
     ]
   },
   {
-    "Id": "",
-    "ObjectId": "175",
-    "ItemId": "175",
-    "ObjectSource": "curatedcontentitemtemplates",
-    "ItemSource": "curatedcontentitemtemplates",
-    "Metadata": {
-      "Added": "2024-01-03T22:59:50.2260272Z"
-    },
-    "AdditionalData": {
-      "NebulaData": {
-        "Colors": "#FFFFFF"
-      }
-    },
-    "Tags": [
-      {
-        "Id": "59",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "60",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "61",
-        "Source": "curatedcontentitemtemplates"
-      }
-    ]
-  },
-  {
-    "Id": "",
     "ObjectId": "176",
     "ItemId": "176",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2260283Z"
+      "Added": "2024-01-03T23:43:21.3887479Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -136,42 +76,12 @@
     ]
   },
   {
-    "Id": "",
-    "ObjectId": "177",
-    "ItemId": "177",
-    "ObjectSource": "curatedcontentitemtemplates",
-    "ItemSource": "curatedcontentitemtemplates",
-    "Metadata": {
-      "Added": "2024-01-03T22:59:50.2260299Z"
-    },
-    "AdditionalData": {
-      "NebulaData": {
-        "Colors": "#FFFFFF"
-      }
-    },
-    "Tags": [
-      {
-        "Id": "59",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "60",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "61",
-        "Source": "curatedcontentitemtemplates"
-      }
-    ]
-  },
-  {
-    "Id": "",
     "ObjectId": "504",
     "ItemId": "504",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2263641Z"
+      "Added": "2024-01-03T23:43:21.3890807Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -202,13 +112,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "505",
     "ItemId": "505",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.226366Z"
+      "Added": "2024-01-03T23:43:21.3890823Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -271,42 +180,12 @@
     ]
   },
   {
-    "Id": "",
-    "ObjectId": "602",
-    "ItemId": "602",
-    "ObjectSource": "curatedcontentitemtemplates",
-    "ItemSource": "curatedcontentitemtemplates",
-    "Metadata": {
-      "Added": "2024-01-03T22:59:50.2264763Z"
-    },
-    "AdditionalData": {
-      "NebulaData": {
-        "Colors": "#FFFFFF"
-      }
-    },
-    "Tags": [
-      {
-        "Id": "59",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "60",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "61",
-        "Source": "curatedcontentitemtemplates"
-      }
-    ]
-  },
-  {
-    "Id": "",
     "ObjectId": "702",
     "ItemId": "702",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266028Z"
+      "Added": "2024-01-03T23:43:21.3893377Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -329,13 +208,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "703",
     "ItemId": "703",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266048Z"
+      "Added": "2024-01-03T23:43:21.3893399Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -358,13 +236,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "704",
     "ItemId": "704",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.226607Z"
+      "Added": "2024-01-03T23:43:21.3893419Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -387,13 +264,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "705",
     "ItemId": "705",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266091Z"
+      "Added": "2024-01-03T23:43:21.3893441Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -416,13 +292,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "706",
     "ItemId": "706",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266109Z"
+      "Added": "2024-01-03T23:43:21.3893463Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -445,13 +320,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "707",
     "ItemId": "707",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266131Z"
+      "Added": "2024-01-03T23:43:21.3893483Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -474,13 +348,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "708",
     "ItemId": "708",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266151Z"
+      "Added": "2024-01-03T23:43:21.3893503Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -503,13 +376,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "709",
     "ItemId": "709",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266171Z"
+      "Added": "2024-01-03T23:43:21.3893522Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -532,13 +404,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "710",
     "ItemId": "710",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266191Z"
+      "Added": "2024-01-03T23:43:21.3893539Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -561,13 +432,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "711",
     "ItemId": "711",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266214Z"
+      "Added": "2024-01-03T23:43:21.389356Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -590,13 +460,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "712",
     "ItemId": "712",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266234Z"
+      "Added": "2024-01-03T23:43:21.3893579Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -619,13 +488,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "713",
     "ItemId": "713",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266253Z"
+      "Added": "2024-01-03T23:43:21.3893598Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -648,13 +516,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "714",
     "ItemId": "714",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266275Z"
+      "Added": "2024-01-03T23:43:21.3893618Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -677,13 +544,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "715",
     "ItemId": "715",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266294Z"
+      "Added": "2024-01-03T23:43:21.3893651Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -706,13 +572,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "716",
     "ItemId": "716",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266313Z"
+      "Added": "2024-01-03T23:43:21.3893671Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -735,13 +600,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "717",
     "ItemId": "717",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266332Z"
+      "Added": "2024-01-03T23:43:21.389369Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -764,13 +628,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "718",
     "ItemId": "718",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.226635Z"
+      "Added": "2024-01-03T23:43:21.3893706Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -793,13 +656,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "719",
     "ItemId": "719",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266371Z"
+      "Added": "2024-01-03T23:43:21.3893728Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -822,13 +684,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "720",
     "ItemId": "720",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.226639Z"
+      "Added": "2024-01-03T23:43:21.3893748Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -851,13 +712,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "721",
     "ItemId": "721",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266409Z"
+      "Added": "2024-01-03T23:43:21.3893768Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -880,13 +740,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "722",
     "ItemId": "722",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266428Z"
+      "Added": "2024-01-03T23:43:21.3893786Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -909,13 +768,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "723",
     "ItemId": "723",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266448Z"
+      "Added": "2024-01-03T23:43:21.3893807Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -938,13 +796,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "724",
     "ItemId": "724",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266465Z"
+      "Added": "2024-01-03T23:43:21.3893828Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -967,13 +824,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "725",
     "ItemId": "725",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266483Z"
+      "Added": "2024-01-03T23:43:21.3893848Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -996,13 +852,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "726",
     "ItemId": "726",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266501Z"
+      "Added": "2024-01-03T23:43:21.389387Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -1025,13 +880,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "727",
     "ItemId": "727",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266641Z"
+      "Added": "2024-01-03T23:43:21.3893889Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -1054,13 +908,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "728",
     "ItemId": "728",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266656Z"
+      "Added": "2024-01-03T23:43:21.3893913Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -1083,13 +936,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "729",
     "ItemId": "729",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266668Z"
+      "Added": "2024-01-03T23:43:21.3893933Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -1112,13 +964,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "730",
     "ItemId": "730",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266683Z"
+      "Added": "2024-01-03T23:43:21.3893952Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -1141,13 +992,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "731",
     "ItemId": "731",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266701Z"
+      "Added": "2024-01-03T23:43:21.3894025Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -1170,13 +1020,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "732",
     "ItemId": "732",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2266719Z"
+      "Added": "2024-01-03T23:43:21.3894039Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -1199,13 +1048,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "733",
     "ItemId": "733",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.226674Z"
+      "Added": "2024-01-03T23:43:21.3894052Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -1228,13 +1076,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "924",
     "ItemId": "924",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2269627Z"
+      "Added": "2024-01-03T23:43:21.389714Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1261,13 +1108,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1090",
     "ItemId": "1090",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2270999Z"
+      "Added": "2024-01-03T23:43:21.3898624Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1294,13 +1140,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1103",
     "ItemId": "1103",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2271261Z"
+      "Added": "2024-01-03T23:43:21.3898927Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1331,13 +1176,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1104",
     "ItemId": "1104",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.227129Z"
+      "Added": "2024-01-03T23:43:21.389896Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1372,13 +1216,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1117",
     "ItemId": "1117",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2271527Z"
+      "Added": "2024-01-03T23:43:21.3899211Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1413,13 +1256,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1120",
     "ItemId": "1120",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2271604Z"
+      "Added": "2024-01-03T23:43:21.3899263Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1458,13 +1300,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1151",
     "ItemId": "1151",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2272226Z"
+      "Added": "2024-01-03T23:43:21.3899972Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1503,13 +1344,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1170",
     "ItemId": "1170",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2272675Z"
+      "Added": "2024-01-03T23:43:21.3900395Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1548,13 +1388,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1173",
     "ItemId": "1173",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2272761Z"
+      "Added": "2024-01-03T23:43:21.3900479Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1589,13 +1428,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1176",
     "ItemId": "1176",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2272822Z"
+      "Added": "2024-01-03T23:43:21.390056Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1630,13 +1468,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1229",
     "ItemId": "1229",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2273946Z"
+      "Added": "2024-01-03T23:43:21.3901708Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1675,13 +1512,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1231",
     "ItemId": "1231",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2273978Z"
+      "Added": "2024-01-03T23:43:21.3901774Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1716,13 +1552,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1232",
     "ItemId": "1232",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.227401Z"
+      "Added": "2024-01-03T23:43:21.390179Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1761,13 +1596,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1260",
     "ItemId": "1260",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2274625Z"
+      "Added": "2024-01-03T23:43:21.3902433Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1798,13 +1632,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1278",
     "ItemId": "1278",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2274991Z"
+      "Added": "2024-01-03T23:43:21.3902817Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1839,13 +1672,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1280",
     "ItemId": "1280",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2275036Z"
+      "Added": "2024-01-03T23:43:21.3902865Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1884,13 +1716,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1326",
     "ItemId": "1326",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.227594Z"
+      "Added": "2024-01-03T23:43:21.3903814Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1917,13 +1748,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1348",
     "ItemId": "1348",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2276381Z"
+      "Added": "2024-01-03T23:43:21.3904274Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1958,13 +1788,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1349",
     "ItemId": "1349",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2276397Z"
+      "Added": "2024-01-03T23:43:21.3904308Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -1995,13 +1824,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1369",
     "ItemId": "1369",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2276815Z"
+      "Added": "2024-01-03T23:43:21.3904705Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2032,13 +1860,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1415",
     "ItemId": "1415",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2277726Z"
+      "Added": "2024-01-03T23:43:21.3905629Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2065,13 +1892,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1422",
     "ItemId": "1422",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2277863Z"
+      "Added": "2024-01-03T23:43:21.390574Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2110,13 +1936,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1423",
     "ItemId": "1423",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2277914Z"
+      "Added": "2024-01-03T23:43:21.3905775Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2151,13 +1976,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1425",
     "ItemId": "1425",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2277961Z"
+      "Added": "2024-01-03T23:43:21.3905826Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2192,13 +2016,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1426",
     "ItemId": "1426",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2277977Z"
+      "Added": "2024-01-03T23:43:21.3905842Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2225,13 +2048,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1427",
     "ItemId": "1427",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2277989Z"
+      "Added": "2024-01-03T23:43:21.3905871Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2258,13 +2080,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1454",
     "ItemId": "1454",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2278535Z"
+      "Added": "2024-01-03T23:43:21.3906469Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2295,13 +2116,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1458",
     "ItemId": "1458",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2278607Z"
+      "Added": "2024-01-03T23:43:21.3906543Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2336,13 +2156,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1461",
     "ItemId": "1461",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2278685Z"
+      "Added": "2024-01-03T23:43:21.3906621Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2381,13 +2200,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1465",
     "ItemId": "1465",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2278756Z"
+      "Added": "2024-01-03T23:43:21.3906691Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2422,13 +2240,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1467",
     "ItemId": "1467",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2278803Z"
+      "Added": "2024-01-03T23:43:21.390674Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2459,13 +2276,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1471",
     "ItemId": "1471",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2278893Z"
+      "Added": "2024-01-03T23:43:21.390683Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2500,13 +2316,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1472",
     "ItemId": "1472",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2278909Z"
+      "Added": "2024-01-03T23:43:21.3906846Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2537,13 +2352,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1475",
     "ItemId": "1475",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2278994Z"
+      "Added": "2024-01-03T23:43:21.3906931Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2578,13 +2392,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1499",
     "ItemId": "1499",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2279519Z"
+      "Added": "2024-01-03T23:43:21.3907427Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2615,13 +2428,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1501",
     "ItemId": "1501",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.227956Z"
+      "Added": "2024-01-03T23:43:21.3907469Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2652,13 +2464,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1502",
     "ItemId": "1502",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2279574Z"
+      "Added": "2024-01-03T23:43:21.3907499Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2697,13 +2508,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1524",
     "ItemId": "1524",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2280048Z"
+      "Added": "2024-01-03T23:43:21.3907976Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2734,13 +2544,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1537",
     "ItemId": "1537",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2280351Z"
+      "Added": "2024-01-03T23:43:21.3908293Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2779,13 +2588,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1551",
     "ItemId": "1551",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2280667Z"
+      "Added": "2024-01-03T23:43:21.3908654Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2816,13 +2624,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1556",
     "ItemId": "1556",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2280758Z"
+      "Added": "2024-01-03T23:43:21.3908742Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2849,13 +2656,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1573",
     "ItemId": "1573",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2281084Z"
+      "Added": "2024-01-03T23:43:21.3909073Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2890,13 +2696,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1580",
     "ItemId": "1580",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2281234Z"
+      "Added": "2024-01-03T23:43:21.3909235Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2927,13 +2732,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1602",
     "ItemId": "1602",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2281677Z"
+      "Added": "2024-01-03T23:43:21.3909702Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -2964,13 +2768,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1603",
     "ItemId": "1603",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2281707Z"
+      "Added": "2024-01-03T23:43:21.3909733Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3013,13 +2816,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1606",
     "ItemId": "1606",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2281778Z"
+      "Added": "2024-01-03T23:43:21.3909805Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3054,13 +2856,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1607",
     "ItemId": "1607",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.228181Z"
+      "Added": "2024-01-03T23:43:21.3909837Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3095,13 +2896,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1608",
     "ItemId": "1608",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2281826Z"
+      "Added": "2024-01-03T23:43:21.3909854Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3136,13 +2936,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1609",
     "ItemId": "1609",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2281857Z"
+      "Added": "2024-01-03T23:43:21.3909887Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3173,13 +2972,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1610",
     "ItemId": "1610",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2281871Z"
+      "Added": "2024-01-03T23:43:21.39099Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3210,13 +3008,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1619",
     "ItemId": "1619",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2282071Z"
+      "Added": "2024-01-03T23:43:21.3910133Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3247,13 +3044,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1636",
     "ItemId": "1636",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2282439Z"
+      "Added": "2024-01-03T23:43:21.391049Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3284,13 +3080,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1637",
     "ItemId": "1637",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2282454Z"
+      "Added": "2024-01-03T23:43:21.3910507Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3325,13 +3120,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1638",
     "ItemId": "1638",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2282469Z"
+      "Added": "2024-01-03T23:43:21.3910541Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3362,13 +3156,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1655",
     "ItemId": "1655",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2282808Z"
+      "Added": "2024-01-03T23:43:21.3910881Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3403,13 +3196,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1670",
     "ItemId": "1670",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283098Z"
+      "Added": "2024-01-03T23:43:21.3911174Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3444,13 +3236,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1675",
     "ItemId": "1675",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283205Z"
+      "Added": "2024-01-03T23:43:21.3911286Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3481,13 +3272,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1677",
     "ItemId": "1677",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283232Z"
+      "Added": "2024-01-03T23:43:21.391133Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3522,13 +3312,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1681",
     "ItemId": "1681",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283325Z"
+      "Added": "2024-01-03T23:43:21.3911419Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3559,13 +3348,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1682",
     "ItemId": "1682",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283339Z"
+      "Added": "2024-01-03T23:43:21.391145Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3596,13 +3384,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1683",
     "ItemId": "1683",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283369Z"
+      "Added": "2024-01-03T23:43:21.3911464Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3637,13 +3424,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1684",
     "ItemId": "1684",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283385Z"
+      "Added": "2024-01-03T23:43:21.3911513Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3674,13 +3460,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1706",
     "ItemId": "1706",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283837Z"
+      "Added": "2024-01-03T23:43:21.3911961Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3711,13 +3496,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1708",
     "ItemId": "1708",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283897Z"
+      "Added": "2024-01-03T23:43:21.3912008Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3748,13 +3532,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1709",
     "ItemId": "1709",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283911Z"
+      "Added": "2024-01-03T23:43:21.3912022Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3789,13 +3572,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1710",
     "ItemId": "1710",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283943Z"
+      "Added": "2024-01-03T23:43:21.3912054Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3826,13 +3608,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1711",
     "ItemId": "1711",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283957Z"
+      "Added": "2024-01-03T23:43:21.3912068Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3863,13 +3644,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1712",
     "ItemId": "1712",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2283971Z"
+      "Added": "2024-01-03T23:43:21.3912104Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3900,13 +3680,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1718",
     "ItemId": "1718",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284107Z"
+      "Added": "2024-01-03T23:43:21.3912219Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3937,13 +3716,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1721",
     "ItemId": "1721",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284165Z"
+      "Added": "2024-01-03T23:43:21.3912277Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -3974,13 +3752,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1724",
     "ItemId": "1724",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284228Z"
+      "Added": "2024-01-03T23:43:21.3912357Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4011,13 +3788,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1725",
     "ItemId": "1725",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284258Z"
+      "Added": "2024-01-03T23:43:21.3912371Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4048,13 +3824,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1728",
     "ItemId": "1728",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284315Z"
+      "Added": "2024-01-03T23:43:21.3912428Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4085,13 +3860,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1732",
     "ItemId": "1732",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284383Z"
+      "Added": "2024-01-03T23:43:21.391252Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4122,13 +3896,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1735",
     "ItemId": "1735",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284456Z"
+      "Added": "2024-01-03T23:43:21.3912579Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4159,13 +3932,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1743",
     "ItemId": "1743",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284613Z"
+      "Added": "2024-01-03T23:43:21.3912732Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4196,13 +3968,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1744",
     "ItemId": "1744",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284629Z"
+      "Added": "2024-01-03T23:43:21.3912746Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4233,13 +4004,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1745",
     "ItemId": "1745",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284643Z"
+      "Added": "2024-01-03T23:43:21.3912777Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4270,13 +4040,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1746",
     "ItemId": "1746",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284673Z"
+      "Added": "2024-01-03T23:43:21.3912791Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4307,13 +4076,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1747",
     "ItemId": "1747",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284687Z"
+      "Added": "2024-01-03T23:43:21.3912805Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4344,13 +4112,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1748",
     "ItemId": "1748",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284716Z"
+      "Added": "2024-01-03T23:43:21.3912836Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4385,13 +4152,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1756",
     "ItemId": "1756",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2284883Z"
+      "Added": "2024-01-03T23:43:21.391301Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4426,13 +4192,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1765",
     "ItemId": "1765",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2285106Z"
+      "Added": "2024-01-03T23:43:21.3913205Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4467,13 +4232,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1773",
     "ItemId": "1773",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.228526Z"
+      "Added": "2024-01-03T23:43:21.3913431Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4504,13 +4268,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1787",
     "ItemId": "1787",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2285541Z"
+      "Added": "2024-01-03T23:43:21.3913723Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4549,13 +4312,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1792",
     "ItemId": "1792",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2285659Z"
+      "Added": "2024-01-03T23:43:21.3913862Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4590,13 +4352,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1802",
     "ItemId": "1802",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2285869Z"
+      "Added": "2024-01-03T23:43:21.3914074Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4627,13 +4388,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1803",
     "ItemId": "1803",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2285915Z"
+      "Added": "2024-01-03T23:43:21.3914088Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4668,13 +4428,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1804",
     "ItemId": "1804",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2285931Z"
+      "Added": "2024-01-03T23:43:21.3914104Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4705,13 +4464,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1809",
     "ItemId": "1809",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286027Z"
+      "Added": "2024-01-03T23:43:21.3914216Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4742,13 +4500,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1812",
     "ItemId": "1812",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286083Z"
+      "Added": "2024-01-03T23:43:21.391429Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4787,13 +4544,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1822",
     "ItemId": "1822",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286281Z"
+      "Added": "2024-01-03T23:43:21.3914504Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4828,13 +4584,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1833",
     "ItemId": "1833",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286488Z"
+      "Added": "2024-01-03T23:43:21.3914727Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4873,13 +4628,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1835",
     "ItemId": "1835",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286533Z"
+      "Added": "2024-01-03T23:43:21.391478Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4914,13 +4668,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1836",
     "ItemId": "1836",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286565Z"
+      "Added": "2024-01-03T23:43:21.3914811Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -4955,13 +4708,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1841",
     "ItemId": "1841",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286674Z"
+      "Added": "2024-01-03T23:43:21.3914917Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5000,13 +4752,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1842",
     "ItemId": "1842",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286692Z"
+      "Added": "2024-01-03T23:43:21.3914935Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5037,13 +4788,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1851",
     "ItemId": "1851",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286901Z"
+      "Added": "2024-01-03T23:43:21.3915151Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5078,13 +4828,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1852",
     "ItemId": "1852",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2286946Z"
+      "Added": "2024-01-03T23:43:21.3915203Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5119,13 +4868,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1878",
     "ItemId": "1878",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2287503Z"
+      "Added": "2024-01-03T23:43:21.391577Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5160,13 +4908,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1880",
     "ItemId": "1880",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.228755Z"
+      "Added": "2024-01-03T23:43:21.3915833Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5197,13 +4944,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1923",
     "ItemId": "1923",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2288448Z"
+      "Added": "2024-01-03T23:43:21.391671Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5234,13 +4980,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1924",
     "ItemId": "1924",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2288462Z"
+      "Added": "2024-01-03T23:43:21.3916725Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5271,13 +5016,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1978",
     "ItemId": "1978",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2289472Z"
+      "Added": "2024-01-03T23:43:21.3917798Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5308,13 +5052,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1979",
     "ItemId": "1979",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2289503Z"
+      "Added": "2024-01-03T23:43:21.3917812Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5345,13 +5088,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1991",
     "ItemId": "1991",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2289734Z"
+      "Added": "2024-01-03T23:43:21.3918076Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5382,13 +5124,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "1992",
     "ItemId": "1992",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2289764Z"
+      "Added": "2024-01-03T23:43:21.391809Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5419,13 +5160,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2003",
     "ItemId": "2003",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2290004Z"
+      "Added": "2024-01-03T23:43:21.3918343Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5460,13 +5200,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2012",
     "ItemId": "2012",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2290189Z"
+      "Added": "2024-01-03T23:43:21.391854Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5501,13 +5240,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2014",
     "ItemId": "2014",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2290234Z"
+      "Added": "2024-01-03T23:43:21.3918568Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5542,13 +5280,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2030",
     "ItemId": "2030",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2290538Z"
+      "Added": "2024-01-03T23:43:21.3918891Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5587,13 +5324,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2034",
     "ItemId": "2034",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2290638Z"
+      "Added": "2024-01-03T23:43:21.3918977Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5628,13 +5364,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2035",
     "ItemId": "2035",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2290655Z"
+      "Added": "2024-01-03T23:43:21.3918993Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5665,13 +5400,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2038",
     "ItemId": "2038",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2290708Z"
+      "Added": "2024-01-03T23:43:21.3919047Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5706,13 +5440,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2039",
     "ItemId": "2039",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.229074Z"
+      "Added": "2024-01-03T23:43:21.3919081Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5747,13 +5480,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2047",
     "ItemId": "2047",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2290911Z"
+      "Added": "2024-01-03T23:43:21.3919255Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5788,13 +5520,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2100",
     "ItemId": "2100",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2291869Z"
+      "Added": "2024-01-03T23:43:21.3920285Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5829,13 +5560,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2105",
     "ItemId": "2105",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2291969Z"
+      "Added": "2024-01-03T23:43:21.3920387Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5866,13 +5596,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2113",
     "ItemId": "2113",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2292122Z"
+      "Added": "2024-01-03T23:43:21.3920552Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5903,13 +5632,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2149",
     "ItemId": "2149",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2293011Z"
+      "Added": "2024-01-03T23:43:21.3921439Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5944,13 +5672,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2155",
     "ItemId": "2155",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2293149Z"
+      "Added": "2024-01-03T23:43:21.3921554Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -5981,13 +5708,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2156",
     "ItemId": "2156",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2293195Z"
+      "Added": "2024-01-03T23:43:21.3921585Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6022,13 +5748,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2179",
     "ItemId": "2179",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.229366Z"
+      "Added": "2024-01-03T23:43:21.3922097Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6063,13 +5788,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2184",
     "ItemId": "2184",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2293759Z"
+      "Added": "2024-01-03T23:43:21.3922196Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6104,13 +5828,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2192",
     "ItemId": "2192",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2293945Z"
+      "Added": "2024-01-03T23:43:21.3922386Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6145,13 +5868,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2213",
     "ItemId": "2213",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2294386Z"
+      "Added": "2024-01-03T23:43:21.3922845Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6186,13 +5908,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2224",
     "ItemId": "2224",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2294594Z"
+      "Added": "2024-01-03T23:43:21.3923074Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6231,13 +5952,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2229",
     "ItemId": "2229",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2294722Z"
+      "Added": "2024-01-03T23:43:21.3923205Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -6268,13 +5988,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2254",
     "ItemId": "2254",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2295239Z"
+      "Added": "2024-01-03T23:43:21.392405Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6305,13 +6024,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2256",
     "ItemId": "2256",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2295296Z"
+      "Added": "2024-01-03T23:43:21.3924095Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6342,13 +6060,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2267",
     "ItemId": "2267",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2295512Z"
+      "Added": "2024-01-03T23:43:21.3924334Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6383,13 +6100,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2276",
     "ItemId": "2276",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2295684Z"
+      "Added": "2024-01-03T23:43:21.3924554Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6420,13 +6136,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2295",
     "ItemId": "2295",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2296086Z"
+      "Added": "2024-01-03T23:43:21.3924974Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6469,13 +6184,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2320",
     "ItemId": "2320",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2296612Z"
+      "Added": "2024-01-03T23:43:21.3925534Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6506,13 +6220,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2353",
     "ItemId": "2353",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.229732Z"
+      "Added": "2024-01-03T23:43:21.3926231Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6547,13 +6260,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2368",
     "ItemId": "2368",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2297634Z"
+      "Added": "2024-01-03T23:43:21.3926543Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6584,13 +6296,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2371",
     "ItemId": "2371",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2297691Z"
+      "Added": "2024-01-03T23:43:21.3926606Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6637,13 +6348,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2381",
     "ItemId": "2381",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2297956Z"
+      "Added": "2024-01-03T23:43:21.3926845Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6682,13 +6392,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2384",
     "ItemId": "2384",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298034Z"
+      "Added": "2024-01-03T23:43:21.3926909Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6719,13 +6428,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2386",
     "ItemId": "2386",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298078Z"
+      "Added": "2024-01-03T23:43:21.3926957Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6756,13 +6464,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2389",
     "ItemId": "2389",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298135Z"
+      "Added": "2024-01-03T23:43:21.3927043Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6805,13 +6512,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2390",
     "ItemId": "2390",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298155Z"
+      "Added": "2024-01-03T23:43:21.392708Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6846,13 +6552,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2391",
     "ItemId": "2391",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298187Z"
+      "Added": "2024-01-03T23:43:21.3927096Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6887,13 +6592,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2392",
     "ItemId": "2392",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298204Z"
+      "Added": "2024-01-03T23:43:21.3927129Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6928,13 +6632,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2396",
     "ItemId": "2396",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298308Z"
+      "Added": "2024-01-03T23:43:21.3927197Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -6969,13 +6672,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2398",
     "ItemId": "2398",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298353Z"
+      "Added": "2024-01-03T23:43:21.3927257Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7010,13 +6712,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2409",
     "ItemId": "2409",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298578Z"
+      "Added": "2024-01-03T23:43:21.3927503Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7047,13 +6748,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2415",
     "ItemId": "2415",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2298692Z"
+      "Added": "2024-01-03T23:43:21.3927649Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7080,13 +6780,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2432",
     "ItemId": "2432",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.229906Z"
+      "Added": "2024-01-03T23:43:21.3928009Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7121,13 +6820,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2434",
     "ItemId": "2434",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.229913Z"
+      "Added": "2024-01-03T23:43:21.392806Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7162,13 +6860,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2450",
     "ItemId": "2450",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.229946Z"
+      "Added": "2024-01-03T23:43:21.3928411Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7199,13 +6896,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2457",
     "ItemId": "2457",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2299596Z"
+      "Added": "2024-01-03T23:43:21.392856Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7240,13 +6936,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2468",
     "ItemId": "2468",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2299838Z"
+      "Added": "2024-01-03T23:43:21.3928798Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7277,13 +6972,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2475",
     "ItemId": "2475",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2299989Z"
+      "Added": "2024-01-03T23:43:21.3928943Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7318,13 +7012,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2482",
     "ItemId": "2482",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2300137Z"
+      "Added": "2024-01-03T23:43:21.3929093Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7367,13 +7060,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2489",
     "ItemId": "2489",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2300311Z"
+      "Added": "2024-01-03T23:43:21.3929262Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -7404,13 +7096,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2503",
     "ItemId": "2503",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2300588Z"
+      "Added": "2024-01-03T23:43:21.3929556Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7441,13 +7132,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2505",
     "ItemId": "2505",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2300633Z"
+      "Added": "2024-01-03T23:43:21.3929584Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7486,13 +7176,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2522",
     "ItemId": "2522",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2300851Z"
+      "Added": "2024-01-03T23:43:21.3929807Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7527,13 +7216,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2527",
     "ItemId": "2527",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2300947Z"
+      "Added": "2024-01-03T23:43:21.3929905Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7564,13 +7252,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2528",
     "ItemId": "2528",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2300962Z"
+      "Added": "2024-01-03T23:43:21.3929919Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7597,13 +7284,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2529",
     "ItemId": "2529",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2300974Z"
+      "Added": "2024-01-03T23:43:21.3929947Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7634,13 +7320,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2541",
     "ItemId": "2541",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2301205Z"
+      "Added": "2024-01-03T23:43:21.3930143Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -7667,13 +7352,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2581",
     "ItemId": "2581",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.230192Z"
+      "Added": "2024-01-03T23:43:21.3930866Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7708,13 +7392,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2605",
     "ItemId": "2605",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2302389Z"
+      "Added": "2024-01-03T23:43:21.3931374Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7749,13 +7432,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2606",
     "ItemId": "2606",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2302422Z"
+      "Added": "2024-01-03T23:43:21.3931413Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7822,13 +7504,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2609",
     "ItemId": "2609",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2302484Z"
+      "Added": "2024-01-03T23:43:21.3931479Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7859,13 +7540,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2610",
     "ItemId": "2610",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2302498Z"
+      "Added": "2024-01-03T23:43:21.3931511Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7892,13 +7572,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2615",
     "ItemId": "2615",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2302602Z"
+      "Added": "2024-01-03T23:43:21.3931599Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7933,13 +7612,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2638",
     "ItemId": "2638",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2303081Z"
+      "Added": "2024-01-03T23:43:21.3932087Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -7970,13 +7648,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2644",
     "ItemId": "2644",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2303211Z"
+      "Added": "2024-01-03T23:43:21.3932239Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8011,13 +7688,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2646",
     "ItemId": "2646",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.230324Z"
+      "Added": "2024-01-03T23:43:21.393229Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8048,13 +7724,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2649",
     "ItemId": "2649",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2303308Z"
+      "Added": "2024-01-03T23:43:21.3932345Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8085,13 +7760,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2663",
     "ItemId": "2663",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2303622Z"
+      "Added": "2024-01-03T23:43:21.3932629Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8126,13 +7800,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2679",
     "ItemId": "2679",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2303958Z"
+      "Added": "2024-01-03T23:43:21.3932971Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8163,13 +7836,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2697",
     "ItemId": "2697",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2304183Z"
+      "Added": "2024-01-03T23:43:21.3933207Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8208,13 +7880,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2708",
     "ItemId": "2708",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2304427Z"
+      "Added": "2024-01-03T23:43:21.393348Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8249,13 +7920,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2719",
     "ItemId": "2719",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2304629Z"
+      "Added": "2024-01-03T23:43:21.3933712Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8290,13 +7960,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2725",
     "ItemId": "2725",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2304745Z"
+      "Added": "2024-01-03T23:43:21.3933825Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8327,13 +7996,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2788",
     "ItemId": "2788",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2305778Z"
+      "Added": "2024-01-03T23:43:21.3934935Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8364,13 +8032,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2797",
     "ItemId": "2797",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2305951Z"
+      "Added": "2024-01-03T23:43:21.3935167Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8401,13 +8068,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2800",
     "ItemId": "2800",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2306026Z"
+      "Added": "2024-01-03T23:43:21.3935221Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8438,13 +8104,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2801",
     "ItemId": "2801",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.230604Z"
+      "Added": "2024-01-03T23:43:21.3935235Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8475,13 +8140,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2802",
     "ItemId": "2802",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2306054Z"
+      "Added": "2024-01-03T23:43:21.3935265Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8512,13 +8176,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2803",
     "ItemId": "2803",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2306083Z"
+      "Added": "2024-01-03T23:43:21.393528Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8549,13 +8212,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2804",
     "ItemId": "2804",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2306097Z"
+      "Added": "2024-01-03T23:43:21.3935294Z"
     },
     "AdditionalData": {},
     "Tags": [
@@ -8586,13 +8248,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2820",
     "ItemId": "2820",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2306529Z"
+      "Added": "2024-01-03T23:43:21.3935646Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8623,50 +8284,12 @@
     ]
   },
   {
-    "Id": "",
-    "ObjectId": "2832",
-    "ItemId": "2832",
-    "ObjectSource": "curatedcontentitemtemplates",
-    "ItemSource": "curatedcontentitemtemplates",
-    "Metadata": {
-      "Added": "2024-01-03T22:59:50.2306787Z"
-    },
-    "AdditionalData": {
-      "NebulaData": {
-        "Colors": "#F7BFDB,#F7EAEA,#CC3333,#FF3366,#FFCC00"
-      }
-    },
-    "Tags": [
-      {
-        "Id": "58",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "60",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "61",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "89",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "153",
-        "Source": "curatedcontentitemtemplates"
-      }
-    ]
-  },
-  {
-    "Id": "",
     "ObjectId": "2833",
     "ItemId": "2833",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2306817Z"
+      "Added": "2024-01-03T23:43:21.3935927Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8705,13 +8328,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2842",
     "ItemId": "2842",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2307019Z"
+      "Added": "2024-01-03T23:43:21.3936145Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8742,13 +8364,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2862",
     "ItemId": "2862",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2307421Z"
+      "Added": "2024-01-03T23:43:21.3936759Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8779,13 +8400,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2873",
     "ItemId": "2873",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2307631Z"
+      "Added": "2024-01-03T23:43:21.3936973Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8816,13 +8436,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2875",
     "ItemId": "2875",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2307674Z"
+      "Added": "2024-01-03T23:43:21.3937019Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8853,13 +8472,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2890",
     "ItemId": "2890",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2307962Z"
+      "Added": "2024-01-03T23:43:21.393735Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8890,13 +8508,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2920",
     "ItemId": "2920",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2308407Z"
+      "Added": "2024-01-03T23:43:21.3937792Z"
     },
     "AdditionalData": {
       "NebulaData": {
@@ -8931,13 +8548,12 @@
     ]
   },
   {
-    "Id": "",
     "ObjectId": "2922",
     "ItemId": "2922",
     "ObjectSource": "curatedcontentitemtemplates",
     "ItemSource": "curatedcontentitemtemplates",
     "Metadata": {
-      "Added": "2024-01-03T22:59:50.2308454Z"
+      "Added": "2024-01-03T23:43:21.393784Z"
     },
     "AdditionalData": {
       "NebulaData": {
