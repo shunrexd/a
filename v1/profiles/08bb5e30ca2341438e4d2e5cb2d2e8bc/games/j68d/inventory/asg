@@ -224,6 +224,38 @@
     ]
   },
   {
+    "ObjectId": "2541",
+    "ItemId": "2541",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3930143Z"
+    },
+    "AdditionalData": {},
+    "Tags": [
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "145",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "154",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "173",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
     "ObjectId": "2581",
     "ItemId": "2581",
     "ObjectSource": "curatedcontentitemtemplates",
@@ -295,78 +327,6 @@
       },
       {
         "Id": "153",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "173",
-        "Source": "curatedcontentitemtemplates"
-      }
-    ]
-  },
-  {
-    "ObjectId": "2606",
-    "ItemId": "2606",
-    "ObjectSource": "curatedcontentitemtemplates",
-    "ItemSource": "curatedcontentitemtemplates",
-    "Metadata": {
-      "Added": "2024-01-03T23:43:21.3931413Z"
-    },
-    "AdditionalData": {
-      "NebulaData": {
-        "Colors": "#653265,#CC9900"
-      }
-    },
-    "Tags": [
-      {
-        "Id": "54",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "60",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "61",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "64",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "143",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "144",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "145",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "146",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "147",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "148",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "149",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "150",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "154",
         "Source": "curatedcontentitemtemplates"
       },
       {
