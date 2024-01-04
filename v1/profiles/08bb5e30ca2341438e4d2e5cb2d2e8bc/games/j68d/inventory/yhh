@@ -224,38 +224,6 @@
     ]
   },
   {
-    "ObjectId": "2541",
-    "ItemId": "2541",
-    "ObjectSource": "curatedcontentitemtemplates",
-    "ItemSource": "curatedcontentitemtemplates",
-    "Metadata": {
-      "Added": "2024-01-03T23:43:21.3930143Z"
-    },
-    "AdditionalData": {},
-    "Tags": [
-      {
-        "Id": "60",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "61",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "145",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "154",
-        "Source": "curatedcontentitemtemplates"
-      },
-      {
-        "Id": "173",
-        "Source": "curatedcontentitemtemplates"
-      }
-    ]
-  },
-  {
     "ObjectId": "2581",
     "ItemId": "2581",
     "ObjectSource": "curatedcontentitemtemplates",
