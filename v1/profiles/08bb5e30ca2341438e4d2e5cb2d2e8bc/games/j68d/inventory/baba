@@ -1,0 +1,522 @@
+[
+  {
+    "ObjectId": "2800",
+    "ItemId": "2800",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3935221Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#CC3300,#D0963F,#FFCE3C"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "90",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2801",
+    "ItemId": "2801",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3935235Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#FFFFFF,#FFFFFF"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "57",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "115",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2802",
+    "ItemId": "2802",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3935265Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#272727,#271E1B"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "88",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2803",
+    "ItemId": "2803",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.393528Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#F3E1E9,#FFFFFF"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "92",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2804",
+    "ItemId": "2804",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3935294Z"
+    },
+    "AdditionalData": {},
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "90",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "92",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2820",
+    "ItemId": "2820",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3935646Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#728D9A,#E7C7A9,#2F3E46,#FFC99F"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "92",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2833",
+    "ItemId": "2833",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3935927Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#F7BFDB,#F7EAEA,#CC3333,#FF3366,#FFCC00"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "92",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "93",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "173",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2842",
+    "ItemId": "2842",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3936145Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#6CAF50,#FFC638,#FF7979,#FF8D46,#FFFFFF"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "90",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2862",
+    "ItemId": "2862",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3936759Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#CC9933,#000000"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "88",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2873",
+    "ItemId": "2873",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3936973Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#999999,#333333"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "89",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2875",
+    "ItemId": "2875",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3937019Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#E22B2B,#666666,#333333"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "89",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2890",
+    "ItemId": "2890",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.393735Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#3A3A3A,#E4E3E0"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "57",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "111",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2920",
+    "ItemId": "2920",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.3937792Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#FCC40B"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "92",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "174",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  },
+  {
+    "ObjectId": "2922",
+    "ItemId": "2922",
+    "ObjectSource": "curatedcontentitemtemplates",
+    "ItemSource": "curatedcontentitemtemplates",
+    "Metadata": {
+      "Added": "2024-01-03T23:43:21.393784Z"
+    },
+    "AdditionalData": {
+      "NebulaData": {
+        "Colors": "#FCC40B"
+      }
+    },
+    "Tags": [
+      {
+        "Id": "58",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "60",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "61",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "92",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "153",
+        "Source": "curatedcontentitemtemplates"
+      },
+      {
+        "Id": "174",
+        "Source": "curatedcontentitemtemplates"
+      }
+    ]
+  }
+]
